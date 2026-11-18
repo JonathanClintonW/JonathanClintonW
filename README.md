@@ -164,6 +164,7 @@ open_source: true
   <tr>
     <td><b>Mobile</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Kotlin-161B22?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
       <img src="https://img.shields.io/badge/Expo-161B22?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
       <img src="https://img.shields.io/badge/EAS_Build-161B22?style=flat-square&logo=expo&logoColor=white" alt="Expo EAS Build" />
     </td>
